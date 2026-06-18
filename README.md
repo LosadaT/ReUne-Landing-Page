@@ -10,7 +10,17 @@ https://losadat.github.io/ReUne-Landing-Page/
 
 App link:
 
-[PASTE THE APP LINK HERE]
+https://testflight.apple.com/join/rEHfCnNt
+
+App repository link:
+
+[PASTE THE APP REPOSITORY LINK HERE]
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
 
 ## Publishing
 
