@@ -14,7 +14,7 @@ https://testflight.apple.com/join/rEHfCnNt
 
 App repository link:
 
-[PASTE THE APP REPOSITORY LINK HERE]
+Coming soon...
 
 ## Technologies Used
 
